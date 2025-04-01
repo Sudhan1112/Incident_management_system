@@ -2,7 +2,10 @@
 
 A full-stack application for tracking, managing, and reporting incidents across an organization. This system enables efficient incident documentation, categorization, and analysis to improve safety and operational response.
 
-![Incident Management System](https://github.com/user-attachments/assets/placeholder-image.png)
+![Incident Management System]![image](https://github.com/user-attachments/assets/bf196f2c-3cfb-4f47-bf75-17bcd63123d7)
+)
+
+![Incident Management System Form data]![image](https://github.com/user-attachments/assets/e42f7a3b-11a8-4676-a781-7eb85fe3ff97)
 
 ## 📋 Table of Contents
 
@@ -21,13 +24,13 @@ A full-stack application for tracking, managing, and reporting incidents across 
 ## 🎮 Demo
 
 ### Frontend Deployment
-[Live Demo](https://your-frontend-deployment-link.com)
+[Live Demo](https://vibe-copilot-project.vercel.app/)
 
 ### Backend Deployment
 [API Endpoint](https://vibe-copilot-project.onrender.com)
 
 ### Demo Video
-[Watch Demo](https://your-video-link.com)
+[Watch Demo](https://drive.google.com/file/d/1o-rxT_Js--jFpS0OP2RqxhfU9skY7MY1/view?usp=sharing)
 
 ## 💻 Tech Stack
 
@@ -223,4 +226,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Created with ❤️ by [Your Name](https://github.com/Sudhan1112)
+Created with ❤️ by [Sudhan](https://github.com/Sudhan1112)
