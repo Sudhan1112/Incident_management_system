@@ -1,7 +1,7 @@
 import axios from "axios";
 import { v4 as uuidv4 } from "uuid";
 
-const API_URL = "http://localhost:3500/incidents";
+const API_URL = "https://vibe-copilot-project.onrender.com/incidents";
 
 export default class IncidentModel {
   static async fetchAll() {
