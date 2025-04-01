@@ -2,7 +2,10 @@
 
 A full-stack application for tracking, managing, and reporting incidents across an organization. This system enables efficient incident documentation, categorization, and analysis to improve safety and operational response.
 
-![Incident Management System](https://github.com/user-attachments/assets/placeholder-image.png)
+![Incident Management System]![image](https://github.com/user-attachments/assets/bf196f2c-3cfb-4f47-bf75-17bcd63123d7)
+)
+
+![Incident Management System Form data]![image](https://github.com/user-attachments/assets/e42f7a3b-11a8-4676-a781-7eb85fe3ff97)
 
 ## 📋 Table of Contents
 
