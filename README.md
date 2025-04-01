@@ -21,7 +21,7 @@ A full-stack application for tracking, managing, and reporting incidents across 
 ## 🎮 Demo
 
 ### Frontend Deployment
-[Live Demo](https://your-frontend-deployment-link.com)
+[Live Demo](https://vibe-copilot-project.vercel.app/)
 
 ### Backend Deployment
 [API Endpoint](https://vibe-copilot-project.onrender.com)
