@@ -7,20 +7,6 @@ A full-stack application for tracking, managing, and reporting incidents across 
 
 ![Incident Management System Form data]![image](https://github.com/user-attachments/assets/e42f7a3b-11a8-4676-a781-7eb85fe3ff97)
 
-## 📋 Table of Contents
-
-- [Demo](#-demo)
-- [Tech Stack](#-tech-stack)
-- [Architecture](#-architecture)
-- [Project Structure](#-project-structure)
-- [Installation](#-installation)
-- [Environment Variables](#-environment-variables)
-- [Running Locally](#-running-locally)
-- [API Endpoints](#-api-endpoints)
-- [Future Enhancements](#-future-enhancements)
-- [Contributing](#-contributing)
-- [License](#-license)
-
 ## 🎮 Demo
 
 ### Frontend Deployment
